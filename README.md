@@ -3,14 +3,14 @@
 
 
 
-# If you have any questions, contact me via discord. (If you don't have discord installed, a download link is in the end of the file.)
+ If you have any questions, contact me via discord. (If you do not have discord installed, a link can be found in the end of the file.)
  Discord-Tag: Iceshades#2451
  Discord ID: 713342608042360923
 
 
 
 # Installation
- 1. Install the MKB-Syntax-Highlighting for Sublime Text 3. (The link to the repository as well as credits are in the end of this file)
+ 1. Install the MKB-Syntax-Highlighting for Sublime Text 3. (The link to the repository as well as credits can be found the end of this file)
  2. Open the Sublime Text 3 application.
  3. Press CTRL + SHIFT + P to open the Command Palette. To access it manually, first select the option 'Tools' and then select the option 'Command Palette'.
  4. Enter the following text within the prompted field that shows up after opening the Command Palette: 'PackageDev: Edit Current Color Scheme'.
@@ -29,7 +29,7 @@
 # Link to KeeMeng's GitHub:
  https://github.com/KeeMeng
 
-# Link to his MKB-Syntax-Highlighting repository:
+# Link to KeeMeng's MKB-Syntax-Highlighting repository:
  https://github.com/KeeMeng/MKB-Syntax-Highlighting
 
 # Link to the official discord website:
