@@ -18,7 +18,7 @@ Discord ID: 713342608042360923
 4. Enter the following text within the prompted field that shows up after opening the Command Palette: 'PackageDev: Edit Current Color Scheme'.
 5. There should be one option available now, called 'PackageDev: Edit Current Color Scheme'. If there isn't any option available, you didn't install the 'PackageDev' properly.
 6. Now, there will be two text editor fields where you can enter code. Always use the 'User'-field, do NOT change anything in the 'Default'-field. (The user-field usually pops up on the right side of your screen when opening the color-scheme menu.)
-7. Delete the entire JSON in the user-field and replace it with the JSON of my color scheme. (The JSON of my color scheme can be found in the file 'iceshades.sublime-color-scheme' -- Direct link:...)
+7. Delete the entire JSON in the user-field and replace it with the JSON of my color scheme. (The JSON of my color scheme can be found in the file 'iceshades.sublime-color-scheme' -- Direct link to the file: https://github.com/Iceshades/ST3-MKB-color-scheme/blob/main/iceshades.sublime-color-scheme)
 8. Save the file and exit the color-scheme menu. A restart of the Sublime Text 3 application might be needed in order to load the new color scheme properly.
 
 
