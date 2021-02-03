@@ -1,0 +1,92 @@
+{
+	// By Iceshades
+	"variables": 
+	{
+		"mc0": "#000000",
+        "mc1": "#ab882c",
+        "mc2": "#00bb2d",
+        "mc3": "#de6d21",
+        "mc4": "#880000",
+        "mc5": "#436EEE",
+        "mc6": "#ffb347",
+        "mc7": "#aaaaaa",
+        "mc8": "#555555",
+        "mc9": "#5fc957",
+        "mca": "#c4bb97",
+        "mcb": "#d1331f",
+        "mcc": "#00d4d4",
+        "mcd": "#db2ad5",
+        "mce": "#ffff55",
+        "mcf": "#FFFFFF",
+	},
+	"globals":
+    {
+        "background": "#000000",
+        "foreground": "#FFFFFF",
+        "line_highlight": "#333333",
+    },
+	"rules": 
+	[
+		//Minecraft Macro/Keybind Mod
+		{
+			"scope": "source.mkb",
+			"foreground": "var(mcf)",
+		},
+		{
+			"scope": "comment.mkb",
+			"foreground": "var(mc7)",
+		},
+		{
+			"scope": "variable.parameter.mkb",
+			"foreground": "var(mc6)",
+		},
+		{
+			"scope": "string.mkb",
+			"foreground": "var(mca)",
+		},
+		{
+			"scope": "keyword.other.mkb",
+			"foreground": "var(mcd)",
+		},
+		{
+			"scope": "constant.numeric.mkb",
+			"foreground": "var(mc9)",
+		},
+		{
+			"scope": "keyword.control.mkb",
+			"foreground": "var(mc5)",
+		},
+		{
+			"scope": "variable.mkb",
+			"foreground": "var(mcc)",
+		},
+		{
+			"scope": "keyword.operator.word.mkb",
+			"foreground": "var(mc3)",
+		},
+		{
+			"scope": "punctuation.definition.keyword.mkb",
+			"foreground": "var(mcf)",
+		},
+		{
+			"scope": "keyword.operator.mkb",
+			"foreground": "var(mcf)",
+		},
+		{
+			"scope": "constant.language.false.mkb",
+			"foreground": "var(mc4)",
+		},
+		{
+			"scope": "constant.language.true.mkb",
+			"foreground": "var(mc2)",
+		},
+		{
+			"scope": "keyword.control.import.mkb",
+			"foreground": "var(mc1)",
+		},
+		{
+			"scope": "invalid.mkb",
+			"foreground": "#FFFFFF",
+		},
+	],
+}
