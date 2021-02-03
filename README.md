@@ -1,5 +1,6 @@
-# This repository contains a custom color scheme for the MKB-Syntax-Highlighting.
- This color-scheme has been created by Iceshades.
+ This repository contains a custom color scheme for the MKB-Syntax-Highlighting. 
+ The color scheme has been created by Iceshades.
+
 
 
 # If you have any questions, contact me via discord. (If you don't have discord installed, a download link is in the end of the file.)
