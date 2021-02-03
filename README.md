@@ -24,17 +24,21 @@
 
 
 
-# Credits for the MKB-Syntax-Highlighting: KeeMeng (TKM)
 
-# Link to KeeMeng's GitHub:
+# Credits for the MKB-Syntax-Highlighting: KeeMeng (aka TKM)
+
+# Useful Links:
+
+ Link to KeeMeng's GitHub:
  https://github.com/KeeMeng
 
-# Link to KeeMeng's MKB-Syntax-Highlighting repository:
+ Link to KeeMeng's MKB-Syntax-Highlighting repository:
  https://github.com/KeeMeng/MKB-Syntax-Highlighting
 
-# Link to the official discord website:
+ Link to the official discord website:
  https://www.discord.com
 
+ All additional useful instructions and links can be found in the MKB-Syntax-Highlighting repository created and owned by KeeMeng. 
 
 
 
