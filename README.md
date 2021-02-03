@@ -27,7 +27,7 @@ Discord ID: 713342608042360923
 
 
 
-# Credits for the MKB-Syntax-Highlighting: KeeMeng 
+Credits for the MKB-Syntax-Highlighting: KeeMeng 
 Additional contributors to the project can be found in the MKB-Syntax-Highlighting repository. (link below)
 
 # Useful Links:
