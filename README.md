@@ -1,5 +1,5 @@
 
-# Table of Contents
+## Table of Contents
 [General](#general)
 [Installation](#installation)
 [Credits](#credits-for-the-mkb-syntax-highlighting)
