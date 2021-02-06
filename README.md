@@ -1,4 +1,11 @@
 
+# Table of Contents
+[General](#general)
+[Installation](#installation)
+[Credits](#credits-for-the-mkb-syntax-highlighting)
+[Useful Links](#useful-links)
+
+
 # General
 This repository contains a custom color scheme for the MKB-Syntax-Highlighting which can be additionally installed for the Sublime Text 3 application.
 
@@ -31,12 +38,12 @@ Discord ID: 713342608042360923
 
 
 
-# Credits for the MKB-Syntax-Highlighting:
+# Credits for the MKB-Syntax-Highlighting
 KeeMeng (also known as TKM)
 
 Additional contributors to the project can be found in the MKB-Syntax-Highlighting repository. (link below)
 
-# Useful Links:
+# Useful Links
 
 Link to KeeMeng's GitHub:
 https://github.com/KeeMeng
