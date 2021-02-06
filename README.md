@@ -1,3 +1,5 @@
+
+# General Information
 This repository contains a custom color scheme for the MKB-Syntax-Highlighting which can be additionally installed for the Sublime Text 3 application.
 
 This color scheme has been created by Iceshades.
